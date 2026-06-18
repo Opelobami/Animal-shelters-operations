@@ -85,7 +85,7 @@ Standardize age documentation at intake. Closing the 28-point LRR gap between kn
 
 ## Dashboard Visualization  
 
-[**View Pbix, word, excel and pdf file**](https://drive.google.com/drive/folders/1PuVNebyP6_3Mcqf6qTLfTck2r1d5mxnn?usp=drive_link)
+[**View dashboard**](https://drive.google.com/file/d/1LbT1TTCGa82inSmcNpJj9z5E5Xed2SbX/view?usp=drive_link)
 
 ---
 
